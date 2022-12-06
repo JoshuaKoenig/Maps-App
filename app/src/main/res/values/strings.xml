@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_api_key">AIzaSyA4FgMVi0tx8RzSlUdGZBKWSmFVUDSuhSw</string>
+</resources>
